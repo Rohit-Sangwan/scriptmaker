@@ -1,2 +1,2 @@
 # scriptmaker
-yoo
+y
